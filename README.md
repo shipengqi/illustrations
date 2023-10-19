@@ -1,2 +1,2 @@
 # illustrations
-This repository stores illustrations of my other Github repositories or blogs.
+This repository stores illustrations of my other GitHub repositories or blogs.
